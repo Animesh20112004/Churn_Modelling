@@ -4,6 +4,12 @@ Welcome to the Customer Churn Prediction App — a sleek, interactive Streamlit 
 
 ---
 
+## 📌 Notes
+The app is deployed on the streamlit cloud.
+Below is the Link:
+Please do have a look:
+https://churnmodelling-phsrflxmetrejyknrm5y7x.streamlit.app/
+
 ## 🚀 Features
 
 - 🔍 Predicts customer churn using a trained ANN model (Model Accuracy : 0.86)

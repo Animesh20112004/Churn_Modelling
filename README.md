@@ -5,10 +5,9 @@ Welcome to the Customer Churn Prediction App — a sleek, interactive Streamlit 
 ---
 
 ## 📌 Notes
-The app is deployed on the streamlit cloud.
-Below is the Link:
-Please do have a look:
-https://churnmodelling-phsrflxmetrejyknrm5y7x.streamlit.app/
+- The app is deployed on the streamlit cloud.
+- Here is the Link
+- link: https://churnmodelling-phsrflxmetrejyknrm5y7x.streamlit.app/
 
 ## 🚀 Features
 

@@ -1,8 +1,3 @@
-Absolutely, Animesh! Here's a polished and visually engaging README.md tailored for your Streamlit-based ANN churn prediction app:
-
----
-
-```markdown
 # 🧠 Customer Churn Prediction App
 
 Welcome to the Customer Churn Prediction App — a sleek, interactive Streamlit web application that uses an Artificial Neural Network (ANN) to predict whether a customer is likely to exit a bank. This tool is designed to help financial institutions proactively identify at-risk customers and take action to improve retention.

@@ -2,8 +2,6 @@
 
 Welcome to the Customer Churn Prediction App — a sleek, interactive Streamlit web application that uses an Artificial Neural Network (ANN) to predict whether a customer is likely to exit a bank. This tool is designed to help financial institutions proactively identify at-risk customers and take action to improve retention.
 
-![Streamlit App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot) <!-- Replace with actual screenshot if available -->
-
 ---
 
 ## 🚀 Features
@@ -100,10 +98,3 @@ Welcome to the Customer Churn Prediction App — a sleek, interactive Streamlit 
 ## 🙌 Acknowledgments
 
 Thanks to the open-source community and the creators of TensorFlow, Streamlit, and Scikit-learn for making this project possible.
-
----
-
-
-```
-
----

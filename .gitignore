@@ -1,0 +1,16 @@
+# 🚫 Ignore virtual environment
+venv/
+
+# 📁 Ignore logs
+logs/
+
+# 🐍 Ignore Python bytecode and cache
+__pycache__/
+*.pyc
+
+# 📓 Ignore Jupyter notebook checkpoints
+*.ipynb
+
+# 💻 Ignore OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1 @@
+This is an ML app which uses Artificial Neural Network and sequential model to predict whether the customer will Exist or not from the bank.
